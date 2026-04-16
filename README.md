@@ -1,8 +1,8 @@
 # Analyzing the Impact of COVID-19 on Young People's Mental Health: NHS Data Trends
 
-- [What this repository is](#What this repository is)
-- [Running the code](#Running the code)
-- [Code structure](#Code structure)
+- [What this repository is](#what-this-repository-is)
+- [Running the code](#running-the-code)
+- [Code structure](#code-structure)
 
 ## What this repository is
 This repository includes code used to process data from the 2017-18 to 2023-24 releases of the United Kingdom (UK) National Health Service (NHS) Hospital Admitted Patient Care Activity datasets. 
