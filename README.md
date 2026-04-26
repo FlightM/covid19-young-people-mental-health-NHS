@@ -5,7 +5,7 @@
 - [Code structure](#code-structure)
 
 ## What this repository is
-This repository includes code used to process data from the 2017-18 to 2023-24 releases of the United Kingdom (UK) National Health Service (NHS) datasets from the Office of National Statistics (ONS) hospital admissions data. The datasets are also related to the following work: A. Y. Naser, ‘Hospitalisation profile in England and Wales, 1999 to 2019: an ecological study’, BMJ Open, vol. 13, no. 4, p. e068393, Apr. 2023, doi: 10.1136/bmjopen-2022-068393.
+This repository includes code used to process data from the 2017-18 to 2023-24 releases of United Kingdom (UK) National Health Service (NHS) datasets from the Office of National Statistics (ONS) hospital admissions data. The datasets are also related to the following work: A. Y. Naser, ‘Hospitalisation profile in England and Wales, 1999 to 2019: an ecological study’, BMJ Open, vol. 13, no. 4, p. e068393, Apr. 2023, doi: 10.1136/bmjopen-2022-068393.
 
 The data was processed for visualisation to explore the questions "How did the number of diagnoses of COVID-19-related mental health disorders identified in previous literature change during and after COVID-19?” and "How did COVID-19’s impact on young people’s mental health compare to its impact on adults’ mental health?"
 
